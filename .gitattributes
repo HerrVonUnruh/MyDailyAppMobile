@@ -1,1 +1,7 @@
 *.apk filter=lfs diff=lfs merge=lfs -text
+AFS_MyDailyAppMobile-Android-Shipping-arm64.apk filter=lfs diff=lfs merge=lfs -text
+Install_MyDailyAppMobile-Android-Shipping-arm64.bat filter=lfs diff=lfs merge=lfs -text
+MyDailyAppMobile-Android-Shipping-arm64.apk filter=lfs diff=lfs merge=lfs -text
+SymbolizeCrashDump_MyDailyAppMobile-Android-Shipping-arm64.bat filter=lfs diff=lfs merge=lfs -text
+Uninstall_MyDailyAppMobile-Android-Shipping-arm64.bat filter=lfs diff=lfs merge=lfs -text
+libUnreal.so filter=lfs diff=lfs merge=lfs -text
